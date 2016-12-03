@@ -1,0 +1,77 @@
+a {
+  color: $color-hyperlink;
+}
+
+.accordion-li {
+  font-family: sans-serif;
+  font-size: 11px !important;
+  padding: 5px;
+}
+
+.accordion-li a {
+  color: $color-hyperlink;
+}
+
+.accordion-p {
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.a-link {
+  color: $color-hyperlink !important;
+}
+
+.div-links {
+  float: right;
+  position: absolute;
+}
+
+.div-padding-1 {
+  padding: 2px;
+  padding-bottom: 5px;
+}
+
+.fa-caption {
+  font-size: 9px;
+}
+
+.fa-custom {
+  font-size: 40px;
+}
+
+.footer {
+  background: none;
+  font-size: 9px;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}
+
+.img-sagan {
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.page-header {
+  border-bottom: 1px solid #000;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.ui-accordion .ui-accordion-icons {
+  border-radius: $border-radius-none !important;
+}
